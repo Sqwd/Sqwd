@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sqwd
 - 👀 I’m interested in Infosec/Hacking/Programming and all that good stuff..
 - 🌱 I’m currently learning everything and anything
-- 💞️ I’m looking to collaborate on @ me bro
+- 💞️ I’m looking to collaborate @ me bro
 - 📫 How to reach me @Sqwd
 
 <!---
